@@ -1,5 +1,5 @@
 {
-  "name": "-nerdstock-things-",
+  "name": "nerdstock-things",
   "title": "Nerdstock Assets",
   "description": "A private module.",
   "author": "me lmao",
@@ -11,35 +11,35 @@
       "name": "vital-beacon-effects",
       "path": "packs/vital-beacon-effects.db",
       "entity": "Macro",
-	  "module": "-nerdstock-things-"
+	  "module": "nerdstock-things"
     },
     {
       "label": "Basic Macros",
       "name": "basic-macros",
       "path": "packs/basic-macros.db",
       "entity": "Macro",
-	  "module": "-nerdstock-things-"
+	  "module": "nerdstock-things"
     },
     {
       "label": "Sequencer Animations",
       "name": "sequencer-animations",
       "path": "packs/sequencer-animations.db",
       "entity": "Macro",
-	  "module": "-nerdstock-things-"
+	  "module": "nerdstock-things"
     },
     {
       "label": "Spell Macros",
       "name": "spell-macros",
       "path": "packs/spell-macros.db",
       "entity": "Macro",
-	  "module": "-nerdstock-things-"
+	  "module": "nerdstock-things"
     },
     {
       "label": "Deflect Sequences",
       "name": "deflect-sequences",
       "path": "packs/deflect-sequences.db",
       "entity": "Macro",
-	  "module": "-nerdstock-things-"
+	  "module": "nerdstock-things"
     }
   ],
   "download":"https://github.com/ajl303/nerdsock-things/archive/refs/tags/test.zip",
