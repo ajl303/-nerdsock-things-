@@ -8,44 +8,38 @@
   "packs": [
 	{
       "label": "Vital Beacon Effects",
-      "entity": "Item",
       "name": "vital-beacon-effects",
       "path": "packs/vital-beacon-effects.db",
-      "system": "pf2e",
-      "package": "world",
-      "type": "Item"
+      "entity": "Macro",
+	  "module": "-nerdstock-things-"
     },
     {
       "label": "Basic Macros",
-      "type": "Macro",
       "name": "basic-macros",
       "path": "packs/basic-macros.db",
-      "system": "pf2e",
-      "entity": "Macro"
+      "entity": "Macro",
+	  "module": "-nerdstock-things-"
     },
     {
       "label": "Sequencer Animations",
-      "type": "Macro",
       "name": "sequencer-animations",
       "path": "packs/sequencer-animations.db",
-      "system": "pf2e",
-      "entity": "Macro"
+      "entity": "Macro",
+	  "module": "-nerdstock-things-"
     },
     {
       "label": "Spell Macros",
-      "type": "Macro",
       "name": "spell-macros",
       "path": "packs/spell-macros.db",
-      "system": "pf2e",
-      "entity": "Macro"
+      "entity": "Macro",
+	  "module": "-nerdstock-things-"
     },
     {
       "label": "Deflect Sequences",
-      "type": "Macro",
       "name": "deflect-sequences",
       "path": "packs/deflect-sequences.db",
-      "system": "pf2e",
-      "entity": "Macro"
+      "entity": "Macro",
+	  "module": "-nerdstock-things-"
     }
   ],
   "download":"https://github.com/ajl303/-nerdsock-things-/archive/refs/tags/test.zip",
