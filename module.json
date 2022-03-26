@@ -4,9 +4,7 @@
   "description": "A private module.",
   "author": "me lmao",
   "version": "1.0.0",
-  "minimumCoreVersion": "1.0.0",
-  "download":"",
-  "manifest":"",
+  "minimumCoreVersion": "9",
   "packs": [
 	{
       "label": "Vital Beacon Effects",
@@ -15,7 +13,6 @@
       "path": "packs/vital-beacon-effects.db",
       "system": "pf2e",
       "package": "world",
-      "private": false,
       "type": "Item"
     },
     {
@@ -24,9 +21,7 @@
       "name": "basic-macros",
       "path": "packs/basic-macros.db",
       "system": "pf2e",
-      "package": "world",
-      "entity": "Macro",
-      "private": false,
+      "entity": "Macro"
     },
     {
       "label": "Sequencer Animations",
@@ -34,9 +29,7 @@
       "name": "sequencer-animations",
       "path": "packs/sequencer-animations.db",
       "system": "pf2e",
-      "package": "world",
-      "entity": "Macro",
-      "private": false
+      "entity": "Macro"
     },
     {
       "label": "Spell Macros",
@@ -44,9 +37,7 @@
       "name": "spell-macros",
       "path": "packs/spell-macros.db",
       "system": "pf2e",
-      "package": "world",
-      "entity": "Macro",
-      "private": false
+      "entity": "Macro"
     },
     {
       "label": "Deflect Sequences",
@@ -54,9 +45,9 @@
       "name": "deflect-sequences",
       "path": "packs/deflect-sequences.db",
       "system": "pf2e",
-      "package": "world",
-      "entity": "Macro",
-      "private": false
+      "entity": "Macro"
     }
   ],
+  "download":"https://github.com/ajl303/-nerdsock-things-/archive/refs/tags/test.zip",
+  "manifest":"https://github.com/ajl303/-nerdsock-things-/releases/download/test/module.json"
 }
